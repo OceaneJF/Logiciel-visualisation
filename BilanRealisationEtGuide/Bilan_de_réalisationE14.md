@@ -69,3 +69,5 @@ La raison est que ces informations sont très précises et privées, ce qui a re
 
 
 ### Lien vers le git ###
+
+https://gitlab-ce.iut.u-bordeaux.fr/dlecoq/sae_2.04_2.05_equipe14
